@@ -4,3 +4,6 @@ class Reference:
 
 
 r = Reference()
+
+
+print(r.data)
